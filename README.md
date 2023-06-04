@@ -1,5 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc4MWYwMmIyYTgwZDlhYjcxY2YxNGY2NDUzNDgwMDEyOGUyYTQ1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<div id="header" align="center" style="background-color: #fff; display: flex; justify-content: center;">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150"/>
+</div>
+<div style="width: 100%">
+    <h3 style="text-align: center">Python backend developer</h3>
 </div>
 
 <!--
