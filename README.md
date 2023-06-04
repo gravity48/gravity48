@@ -1,8 +1,8 @@
-<div id="header" align="center" style="background-color: #fff; display: flex; justify-content: center;">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150"/>
-</div>
-<div style="width: 100%">
-    <h3 style="text-align: center">Python backend developer</h3>
+<div id="header" align="center" style="background-color: #fff; flex-direction: row; display: flex; justify-content: center;">
+   <div>
+        <h2 style="text-align: center; color: black;" >Python backend developer</h2>
+   </div>
+   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
 </div>
 
 <!--
