@@ -6,11 +6,12 @@
 
 <img align='right' src='https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif' width='150px'>
 
-- 📈 I'm python backend developer!
+- 📈 I`m python backend developer
 - 💻 I`m a specialist in speech technologies and named entity recognition
-- 🔭 I have great experience working with Django, Celery, SqlAlchemy, Websockets.
+- 🔭 I have great experience working with Django, Celery, SqlAlchemy, Websockets
 - 🌱 I'm currently learning the FASTAPI framework
-- ⚡ I try to solve some problems on Leetcode
+- 💡 I`m involved in the development opensource projects
+- 📖 I try to solve some problems on Leetcode
 
 
 ### ⚙️ My skills
@@ -24,7 +25,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 
-### Built With
+### 🛠️ Built With
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=for-the-badge&logo=SqlAlchemy)
