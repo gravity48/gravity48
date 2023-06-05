@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ilya Koverin
 [![Gmail Badge](https://img.shields.io/badge/-gravity4849@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gravity4849@gmail.com)](mailto:gravity4849@gmail.com)
-![Telegram](https://img.shields.io/badge/signature48-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/signature48)
+[![Telegram](https://img.shields.io/badge/signature48-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/signature48)](https://t.me/signature48)
 
 ### 👨🏻‍💻 About Me
 
