@@ -1,5 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ilya Koverin
 [![Gmail Badge](https://img.shields.io/badge/-gravity4849@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gravity4849@gmail.com)](mailto:gravity4849@gmail.com)
+![Telegram](https://img.shields.io/badge/signature48-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/signature48)
 
 ### 👨🏻‍💻 About Me
 
@@ -22,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=green)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Built With
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
