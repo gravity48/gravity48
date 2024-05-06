@@ -6,12 +6,13 @@
 
 <img align='right' src='https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif' width='150px'>
 
-- 📈 I`m python backend developer
+- 📈 I`m python backend developer and network engineer
 - 💻 I`m a specialist in speech technologies and named entity recognition
-- 🔭 I have great experience working with Django, Celery, SqlAlchemy, Websockets
-- 🌱 I'm currently learning the FASTAPI framework
+- 🔭 I have great experience working with Django, FastAPI, Celery, SqlAlchemy, Websockets, PostgreSQL 
+- 🌱 I'm currently learning the ML
 - 💡 I`m involved in the development opensource projects
 - 📖 I try to solve some problems on Leetcode
+- 🎆 I always set myself the most difficult challenges
 
 
 ### ⚙️ My skills
@@ -28,9 +29,8 @@
 ### 🛠️ Built With
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
+![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=for-the-badge&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&logo=Celery)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vue-dot-js)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-
-
