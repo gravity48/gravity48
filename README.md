@@ -9,7 +9,7 @@
 - 📈 I`m python backend developer and network engineer
 - 💻 I`m a specialist in speech technologies and named entity recognition
 - 🔭 I have great experience working with Django, FastAPI, Celery, SqlAlchemy, Websockets, PostgreSQL 
-- 🌱 I'm currently learning the ML
+- 🌱 I'm currently in-depth study of algorithms
 - 💡 I`m involved in the development opensource projects
 - 📖 I try to solve some problems on Leetcode
 - 🎆 I always set myself the most difficult challenges
