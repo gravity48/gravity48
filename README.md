@@ -11,7 +11,7 @@
 - 🔭 I have great experience working with Django, FastAPI, Celery, SqlAlchemy, Websockets, PostgreSQL 
 - 🌱 I'm currently in-depth study of algorithms
 - 💡 I`m involved in the development opensource projects
-- 📖 I try to solve some problems on Leetcode
+- 📖 I`m every day solve some problems on Leetcode
 - 🎆 I always set myself the most difficult challenges
 
 
